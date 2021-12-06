@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1610284741 source:c:\users\user\desktop\информ\lab 5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1637479559 source:c:\users\marmo\desktop\grysnui_toxic\domashka\ГДЗ старшаки\си\lab 5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1638517055 source:c:\users\marmo\desktop\grysnui_toxic\domashka\informatika1\codeblock\lab4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<conio.h>
+	<malloc.h>
+
